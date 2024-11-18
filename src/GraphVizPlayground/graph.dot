@@ -1,0 +1,12 @@
+graph MyGraph {
+	MyNode [
+		"shape"="ellipse"
+		"label"="My node!"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"style"="dotted"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+}
